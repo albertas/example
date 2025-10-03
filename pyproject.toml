@@ -94,7 +94,7 @@ ignore = [
 
 [tool.mypy]
 exclude = ["build", "dist", ".venv"]
-python_version = "3.13"
+python_version = "3.14"
 strict = true
 pretty = true
 color_output = true
